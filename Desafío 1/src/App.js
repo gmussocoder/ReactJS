@@ -4,8 +4,9 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Navbar from './components/NavBar';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import inicio from './Pages/Inicio';
+import Alumno from './alumno';
 
-function App() {
+function App() { //La función App es un componente, que llama a otro componente "hijo" llamado "alumno"
   return (
     <div className="App">
       <header className="App-header">
@@ -16,17 +17,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          DESAFÍO N° 2 <br></br>
-          Alumno: Guillermo Andrés Musso Rodríguez <br></br>
-          e-Mail: gamussorodriguez@teco.com.ar <br></br>
-          Móvil: 1130743868 <br></br>
-        </a>
+        <Alumno apellido="Musso Rodriguez" nombres="Guillermo Andrés" msisdn="+5491130743868" email="gamussorodriguez@teco.com.ar" />
         <button type="button" className="btn btn-primary">Primary</button>
         <button type="button" className="btn btn-secondary">Secondary</button>
         <button type="button" className="btn btn-success">Success</button>
