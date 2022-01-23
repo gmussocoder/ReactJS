@@ -1,4 +1,5 @@
 import React from 'react';
+import Contador from './Cartwidget';
 
 const Navbar = () => {
     return (
@@ -19,6 +20,9 @@ const Navbar = () => {
                     </li>
                     <li className="nav-item">
                       <a className="nav-link" href="#">Pricing</a>
+                    </li>
+                    <li className="nav-item">
+                      <a className="nav-link" href="#"><Contador /></a>
                     </li>
                   </ul>
                 </div>
