@@ -1,3 +1,4 @@
+/*Esto es lo correspondiente al desafío de la clase 4 */
 import React from 'react';
 import Contador from './Cartwidget';
 
