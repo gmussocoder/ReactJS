@@ -1,4 +1,4 @@
-/*Esto es lo correspondiente al desafío de la clase 6*/
+/*Esto es lo correspondiente al desafío de la clase 8*/
 import React from "react";
 import ButtonGroup from "@material-ui/core/ButtonGroup";
 import Badge from "@material-ui/core/Badge";
