@@ -3,9 +3,10 @@
 _Es un repositorio utilizado con el único fin de realizar las practicas del curso de reactJS de CODERHOUSE_
 
 ## Imagenes del proyecto 🚀
-![Alt text](https://github.com/lucas1992/reactJS/blob/main/images_proyecto/1.png?raw=true "")
-![Alt text](https://github.com/lucas1992/reactJS/blob/main/images_proyecto/2.png?raw=true "")
-![Alt text](https://github.com/lucas1992/reactJS/blob/main/images_proyecto/gif_routing.gif?raw=true "")
+![Alt text](https://github.com/gmussocoder/ReactJS/blob/Proyecto-Final/Desaf%C3%ADo%201/images_proyecto/Imagen1.png "")
+![Alt text](https://github.com/gmussocoder/ReactJS/blob/Proyecto-Final/Desaf%C3%ADo%201/images_proyecto/imagen2.png "")
+![Alt text](https://github.com/gmussocoder/ReactJS/blob/Proyecto-Final/Desaf%C3%ADo%201/images_proyecto/imagen3.png "")
+![Alt text](https://github.com/gmussocoder/ReactJS/blob/Proyecto-Final/Desaf%C3%ADo%201/images_proyecto/Proyecto%20Gif.jpeg "")
 
 ### Pre-requisitos 📋
 
@@ -23,31 +24,21 @@ sudo npm install -g env-cmd
 
 ### Instalación y ejecución 🔧
 
-_se puede instalar con NPM de manera muy simple:_
-
-
-```
 npm install
 npm run start:local
-```
 
 ## Construido con 🛠️
 
-_Herramientas utilizadas para realizar el proyecto_
+Herramientas utilizadas:
 
 * [Bootstrap](https://react-bootstrap.github.io/) - biblioteca multiplataforma
-* [ReactJS](https://es.reactjs.org/) - El framework web usado
-* [NPM](https://www.npmjs.com/) - Manejador de dependencias
+* [ReactJS](https://es.reactjs.org/) - El framework web utilizado
+* [NPM](https://www.npmjs.com/) - Gestor de dependencias
 
-
-## Versionado 📌
-
-Uso [Etcheverry](https://github.com/lucas1992/reactJS) para el versionado.
 
 ## Autores ✒️
 
-* **Etcheverry Lucas** - *Trabajo Inicial* - [lucas](https://github.com/lucas1992/reactJS)
-
+**Guillermo Andrés Musso Rodríguez** - *Proyecto Final*
 
 ## Licencia 📄
 
@@ -56,7 +47,6 @@ Este proyecto está bajo la Licencia GNU GENERAL PUBLIC LICENSE - mira el archiv
 ## Expresiones de Gratitud 🎁
 
 * Agradezco a CODERHOUSE y todo su equipo por el curso brindado y el apoyo 📢
-* Invito una cerveza 🍺 Guillermo Musso por la ayuda brindada al retornar de mis vacaciones. 
-
+* Agradezco e Invito Una Pizza 🍺 Lucas Echeverry por la ayuda brindada al retornar de mis vacaciones. Un Groso. 
 ---
 
