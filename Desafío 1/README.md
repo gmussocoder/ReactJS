@@ -6,7 +6,7 @@ _Es un repositorio utilizado con el único fin de realizar las practicas del cur
 ![Alt text](https://github.com/gmussocoder/ReactJS/blob/Proyecto-Final/Desaf%C3%ADo%201/images_proyecto/Imagen1.png "")
 ![Alt text](https://github.com/gmussocoder/ReactJS/blob/Proyecto-Final/Desaf%C3%ADo%201/images_proyecto/imagen2.png "")
 ![Alt text](https://github.com/gmussocoder/ReactJS/blob/Proyecto-Final/Desaf%C3%ADo%201/images_proyecto/imagen3.png "")
-![Alt text](https://github.com/gmussocoder/ReactJS/blob/Proyecto-Final/Desaf%C3%ADo%201/images_proyecto/Proyecto%20Gif.jpeg "")
+![Alt text](https://github.com/gmussocoder/ReactJS/blob/Proyecto-Final/Desaf%C3%ADo%201/images_proyecto/gmusso.gif "")
 
 ### Pre-requisitos 📋
 
