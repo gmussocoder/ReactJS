@@ -47,6 +47,6 @@ Este proyecto está bajo la Licencia GNU GENERAL PUBLIC LICENSE - mira el archiv
 ## Expresiones de Gratitud 🎁
 
 * Agradezco a CODERHOUSE y todo su equipo por el curso brindado y el apoyo 📢
-* Agradezco e Invito Una Pizza 🍺 Lucas Echeverry por la ayuda brindada al retornar de mis vacaciones. Un Groso. 
+* Agradezco e Invito Una Pizza🍕a Lucas Echeverry por la ayuda brindada al retornar de mis vacaciones. Un Groso. 
 ---
 
